@@ -234,4 +234,5 @@ function comprobar(){
     f.elements[3].focus();
     alert("Escribe un número");
     return true;
+   }
 }
